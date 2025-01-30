@@ -1,0 +1,5 @@
+Resultado del anal
+Archivo analizado: texto_ejemplo.txt
+Numero de lineas: 3
+Numero de palabras: 15
+Numero de caracteres: 81
