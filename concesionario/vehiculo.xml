@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehiculos>
+    <Vehiculo id="2">
+        <año>202</año>
+        <modelo>sea</modelo>
+        <precio>2.2</precio>
+    </Vehiculo>
+    <Vehiculo id="2">
+        <año>2002</año>
+        <modelo>fiat</modelo>
+        <precio>2.2</precio>
+    </Vehiculo>
+    <Vehiculo id="5">
+        <año>2006</año>
+        <extra>
+            <aleron>true</aleron>
+            <color>rojo</color>
+            <numRuedas>3</numRuedas>
+        </extra>
+        <modelo>seat</modelo>
+        <precio>2000.0</precio>
+    </Vehiculo>
+</vehiculos>
