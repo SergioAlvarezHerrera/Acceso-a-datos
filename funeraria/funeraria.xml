@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ataudes>
+    <ataud id="2">
+        <ancho>2.2</ancho>
+        <largo>2.2</largo>
+        <material>madera</material>
+        <muerto>
+            <edad>10</edad>
+            <fecha>10/10/2010</fecha>
+            <nombre>sergio</nombre>
+        </muerto>
+        <vacio>false</vacio>
+    </ataud>
+</ataudes>
