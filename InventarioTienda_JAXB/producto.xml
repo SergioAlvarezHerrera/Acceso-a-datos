@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productos>
+    <Producto id="2">
+        <cantidad>2</cantidad>
+        <nombre>ser</nombre>
+        <precio>2.2</precio>
+    </Producto>
+</productos>
