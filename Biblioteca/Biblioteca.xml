@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro>
+        <titulo>Clean Code</titulo>
+        <autor>Robert C. Martin</autor>
+        <año>2008</año>
+    </libro>
+    <libro>
+        <titulo>Effective Java</titulo>
+        <autor>Joshua Bloch</autor>
+        <año>2001</año>
+    </libro>
+</biblioteca>
